@@ -35,7 +35,7 @@ Set the following environment variables in your terminal **before running the sc
 **Example Command (using Git Bash/Linux shell):**
 
 ```bash
-export MLFLOW_TRACKING_USERNAME=ABHINAY945
+export MLFLOW_TRACKING_USERNAME=ARYANRAJSSM660
 export MLFLOW_TRACKING_PASSWORD=YOUR_DAGSHUB_TOKEN_HERE
 
 Run the MLflow Experiment
